@@ -1,0 +1,4 @@
+aurum.db
+aurum.db-wal
+aurum.db-shm
+__pycache__/
