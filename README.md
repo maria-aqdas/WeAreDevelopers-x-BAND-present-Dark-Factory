@@ -1,4 +1,4 @@
-# 👑 Aurum Reserve                     
+# 👑 Aurum Reserve                                               
 
 **A smart reservation command center with a concurrency-safe booking engine.**
                      
