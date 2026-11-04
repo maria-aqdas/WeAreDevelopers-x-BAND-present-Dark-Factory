@@ -210,5 +210,5 @@ This project is licensed under the **MIT License**. You can use and modify it ac
 
 **Maria Aqdas**
 
-🔗 [LinkedIn](https://linkedin.com/in/maria_aqdas_ds) · [GitHub](https://github.com/maria_aqdas)
+🔗 [LinkedIn](https://linkedin.com/in/maria-aqdas-ds) · [GitHub](https://github.com/maria-aqdas)
 
