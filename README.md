@@ -4,7 +4,7 @@
 
 Aurum Reserve is a restaurant reservation management application built with **Python, Streamlit, and SQLite**. It demonstrates how to prevent double-bookings when multiple requests attempt to reserve the same table at the same time.
 
-🔗 **[Live Demo](https://your-app-name.streamlit.app)** · 💻 **[Source Code](https://github.com/your-username/aurum-reserve)**
+🔗 **[Live Demo](https://aurum reserve.streamlit.app)** · 💻 **[Source Code](https://github.com/maria-aqdas/aurum-reserve)**
 
 <!-- Add a screenshot or GIF of the Kill Demo here -->
 <!-- ![Aurum Reserve Screenshot](docs/screenshot.png) -->
