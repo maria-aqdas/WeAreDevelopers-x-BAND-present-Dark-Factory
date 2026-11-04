@@ -1,7 +1,7 @@
 # 👑 Aurum Reserve                     
 
 **A smart reservation command center with a concurrency-safe booking engine.**
-
+                     
 Aurum Reserve is a restaurant reservation management application built with **Python, Streamlit, and SQLite**. It demonstrates how to prevent double-bookings when multiple requests attempt to reserve the same table at the same time.
 
 🔗 **[Live Demo](https://aurumreserve.streamlit.app)** · 💻 **[Source Code](https://github.com/maria-aqdas/aurum-reserve)**
