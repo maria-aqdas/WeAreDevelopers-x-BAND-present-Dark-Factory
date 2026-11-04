@@ -208,7 +208,7 @@ This project is licensed under the **MIT License**. You can use and modify it ac
 
 ### 👩‍💻 Author
 
-**Your Name**
+**Maria Aqdas**
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://linkedin.com/in/maria_aqdas_ds) · [GitHub](https://github.com/maria_aqdas)
 
